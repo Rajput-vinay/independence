@@ -1,0 +1,134 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+    background:url('../images/Snow.gif') ;
+    
+}
+.h-tit{
+    text-align: center;
+    margin: 30px;
+    color: rgb(246, 61, 15);
+}
+.b-ses{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.b-ses .img{
+    width: 240px;
+}
+.b-ses .b-title{
+  
+    color: rgb(246, 61, 15);
+    font-size: 18px;
+    margin-top: 20px;
+
+}
+.b-ses .noti{
+   
+    padding:14px 20px ;
+    font-weight: bold;
+    font-size: 16px;
+    border-radius: 50px;
+    font-weight: bold;
+    color: #fff;
+    margin: .5px 0px;
+
+}
+.b-ses .bg-blue{
+    background-color: rgb(91, 82, 225);
+}
+.bg-red{
+    background-color: rgb(241, 33, 33);
+}
+.bg-pink{
+background-color: pink;
+}
+.bg-sky{
+background-color: skyblue;
+}
+.bg-green{
+background-color: greenyellow;
+}
+.bg-orange{
+background-color: orange;
+}
+.bg-red{
+background-color: red;
+}
+.bg-yellow{
+background-color: rgb(242, 242, 162);
+}
+.bg-gray{
+background-color: gray;
+}
+.last-sec{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.animate{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    margin: 60px;
+    animation-name: example;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+}
+   
+
+
+.animate .box{
+    display: block;
+ color: #fff;
+   width: 90%;
+    height: 40px;
+    line-height: 40px;
+    border-radius: 50px;
+  
+}
+/* The animation code */
+@keyframes example {
+    0%  { -ms-transform: rotate(0deg); /* IE 9 */
+        transform: rotate(0deg);}
+    25%  { -ms-transform: rotate(2deg); /* IE 9 */
+        transform: rotate(2deg);}
+    50%  { -ms-transform: rotate(-2deg); /* IE 9 */
+        transform: rotate(-2deg);}
+    100% { -ms-transform: rotate(0deg); /* IE 9 */
+        transform: rotate(0deg);}
+  }
+  .f-tit{
+    text-align: center;
+    margin: 30px;
+    color: rgb(246, 61, 15);
+    font-size: 24px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.wps{
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    height: 90px;
+    width: 90px;
+    padding: 20px;
+    margin: 10px;
+}
+
+
+
+
+a class="footerbtn" href="whatsapp://send?text=*Happy Independence Day 2022 * Sent You a Special  Wish. ✔%0D%0A%0D%0A_ Link पर CLICK करो और जादू देखो 👉->https://15august2022wishingscript.blogspot.com/?m=0" data-action="share/whatsapp/share">
+ <img width="22px" height="22px"src="https://1.bp.blogspot.com/-Pri4KuTHGKM/YOr1rlU4uSI/AAAAAAAAAHs/awHfMOzD_bgLF68I5o_vV9F6lCno8x01ACLcBGAsYHQ/w233-h233/wp.png"/>  
